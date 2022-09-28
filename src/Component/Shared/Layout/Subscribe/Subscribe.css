@@ -1,0 +1,46 @@
+.subscribeWrapper {
+  background: #f7f7f7;
+  margin-top: 25px;
+}
+.newLetter {
+  line-height: 1.9em;
+  letter-spacing: 1px;
+  font-size: 1.2em;
+  
+  color: #777;
+  font-weight: 600;
+  width: 37%;
+  margin: 0 auto;
+}
+
+.subscribeField {
+  display: flex;
+  align-items: center;
+  display: flex;
+
+  padding:19 px;
+  margin-top: 36px;
+  justify-content: center;
+}
+.subscribeInputField {
+    padding: 0.85em 1em;
+    color: #495057;
+    border-radius: 0.25rem;
+    font-size: 0.9em;
+    border: none;
+    letter-spacing: 2px;
+    box-shadow: 1px 3px 8px 0 rgb(0 0 0 / 15%);
+    width: 500px;
+    margin-right: 10px;
+}
+.subscribeTittle {
+  padding: 85px;
+}
+    .shoppingWrapper {
+        background: #080808;
+        padding: 2em;
+        display: flex;
+        justify-content: space-around;
+    }
+   
+

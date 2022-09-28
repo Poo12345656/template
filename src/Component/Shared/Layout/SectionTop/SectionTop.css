@@ -1,0 +1,20 @@
+.sectionTop {
+    background: #71d2e6;
+    padding: 25px 15%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.bannerHeading
+{
+    font-size: 45px;
+    text-transform: uppercase;
+    color: #333;
+    width: 508px;
+    margin-top: 6em;
+    margin-bottom: 0.7em;
+    font-family: 'Hind', sans-serif;
+}
+.bannerImg{
+    margin-left:100px;
+}
+

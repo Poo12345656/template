@@ -1,7 +1,8 @@
 import React from "react";
+import "./Menu.css"
 
 function Menu() {
-  const menuList = [
+  const menuHeaderList = [
     { title: "HOME", url: "/" },
     { title: "ABOUT US", url: "/" },
     { title: "DROPDOWN", url: "/" },
@@ -10,10 +11,10 @@ function Menu() {
   
   ];
   return (
-    <div>
-      <ul>
-        {menuList.map((item, index) => {
-          return <li key={index}>{item.title}</li>;
+    <div >
+      <ul className="menuWrapper">
+        {menuHeaderList.map((item, index) => {
+          return <li className="menuList" key={index}>{item.title}</li>;
         })}
       </ul>
     </div>

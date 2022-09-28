@@ -1,0 +1,11 @@
+.menuWrapper {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin-left: -18px;
+}
+.menuList{
+    padding:20px;
+    font-family: "Times New Roman";
+    color:#2d4a4e;
+}

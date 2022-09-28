@@ -1,0 +1,17 @@
+.topHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #8bb4df;
+}
+.userBtnWrapper {
+  display: flex;
+}
+.logo{
+    font-size: 20px;
+    font-family: "Times New Roman"
+}
+@media screen and (max-width: 320px) {
+    
+    
+    }

@@ -1,0 +1,20 @@
+.trandingWrapper{
+    padding: 25px 15%;
+    display: flex;
+    align-items: center;
+    margin-top: 39px;
+}
+
+
+
+
+.trandingImag {
+    display: flex;
+}
+
+.trandingImagScnd {
+    display: flex;
+}
+.trad{
+    padding:15px;
+}

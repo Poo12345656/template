@@ -1,0 +1,15 @@
+.searchWrappe{
+    position: relative;
+}
+
+
+.searchBtn {
+    position: absolute;
+    right: 295px;
+    top: 117px;
+    background: red;
+    padding: 10px 22px;
+    border-radius: 10px;
+    color: white;
+    font-size: 16px;
+}

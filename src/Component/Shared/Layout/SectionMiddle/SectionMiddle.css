@@ -1,0 +1,27 @@
+.collectionWrapper{
+        display: flex;
+        align-items: center;
+        margin-top: 32px;
+        background: #f7f7f7;
+   
+}
+.sectionMiddle {
+    display: flex;
+}
+
+.collectionService {
+    display: flex;
+    align-items: center;
+}
+.collectionTittle
+{
+    font-size: 2.5em;
+    text-transform: uppercase;
+    color: #333;
+    margin-bottom: 0.7em;
+    text-align: center;
+    margin-top: 70px;
+    font-weight: 600;
+}
+
+
